@@ -44,7 +44,7 @@ export function Services() {
       icon: CheckSquare,
       description: "Efficient tools for police to monitor, manage, and resolve tasks and FIRs.",
       bgColor: "bg-green-300/60",
-      textColor: "text-white",
+      textColor: "text-black",
     },
   ];
 
