@@ -7,7 +7,6 @@ import {
   FileText,
   AlertCircle,
   MapPin,
-  Calendar,
   MessageSquare,
   User,
   Mail,
@@ -239,7 +238,7 @@ export default function PoliceDashboardPage() {
           
                         }}>{fir.trackingId}</CardTitle>
                         <CardDescription className="text-base text-gray-600 mt-1 flex items-center gap-2">
-                          <Calendar className="h-4 w-4" />
+                          {/* <Calendar className="h-4 w-4" /> */}
                           {new Date(fir.createdAt).toLocaleString()}
                         </CardDescription>
                       </div>
