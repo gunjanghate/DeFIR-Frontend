@@ -121,7 +121,3 @@ MIT License. See [`LICENSE`](LICENSE) for details.
 Special thanks to **HackByte** for the platform and inspiration to build something impactful.
 
 ```
-
----
-
-Let me know if you'd like a version with emojis removed, images replaced, or with actual content filled in from your code. I can also help you add badges or a live deploy link if you plan to host it.
